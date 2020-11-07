@@ -1,0 +1,26 @@
+{
+
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@127.0.0.1:3306/my_website",
+    "prod_uri":"mysql://root:@localhost/my_website",
+    "fb_url": "https://www.facebook.com/gurpreetsinghguller",
+    "tw_url": "https://www.twitter.com/dev-gurpreet",
+    "git_url": "https://www.github.com",
+    "title": "Er.Gurpreetsingh",
+    "blogname": "Turtar technolabs",
+    "blogheading": "Welcome to my blog!",
+    "tagline": "A blog by Gurpreetsingh",
+    "gmail-user":"gullergurpreetsingh@gmail.com",
+    "gmail-password":"7878050625Gg$$%#",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nostrum ullam eveniet pariatur voluptates odit, fuga atque ea nobis sit soluta odio, adipisci quas excepturi maxime quae totam ducimus consectetur?\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Eius praesentium recusandae illo eaque architecto error, repellendus iusto reprehenderit, doloribus, minus sunt. Numquam at quae voluptatum in officia voluptas voluptatibus, minus!",
+    "no_of_posts":2,
+    "admin_user_name": "Er.Gurpreetsingh",
+    "admin_password": "78788866Gg",
+    "upload_location": "C:\\Users\\Gurpreet\\PycharmProjects\\Mywebsite\\static\\images\\blogs",
+    "instagram": "https://www.instagram.com/turtartechnolabs/?hl=en"
+
+
+  }
+}
